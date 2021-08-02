@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="Phomemo" part="M02 Pro - 50mmx10mm" size="Other" width="50mm" height="10mm" description="50mmx10mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="10mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="10mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx20mm" size="Other" width="50mm" height="20mm" description="50mmx20mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="20mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="20mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx25mm" size="Other" width="50mm" height="25mm" description="50mmx25mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="25mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="25mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx30mm" size="Other" width="50mm" height="30mm" description="50mmx30mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="30mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="30mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx50mm" size="Other" width="50mm" height="50mm" description="50mmx50mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="50mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="50mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx60mm" size="Other" width="50mm" height="60mm" description="50mmx60mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="60mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="60mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx70mm" size="Other" width="50mm" height="70mm" description="50mmx70mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="70mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="70mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx75mm" size="Other" width="50mm" height="75mm" description="50mmx75mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="75mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="75mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx80mm" size="Other" width="50mm" height="80mm" description="50mmx80mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="80mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="80mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx90mm" size="Other" width="50mm" height="90mm" description="50mmx90mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="90mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="90mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx100mm" size="Other" width="50mm" height="100mm" description="50mmx100mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="100mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="100mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx110mm" size="Other" width="50mm" height="110mm" description="50mmx110mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="110mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="110mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx120mm" size="Other" width="50mm" height="120mm" description="50mmx120mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="120mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="120mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx125mm" size="Other" width="50mm" height="125mm" description="50mmx125mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="125mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="125mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx130mm" size="Other" width="50mm" height="130mm" description="50mmx130mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="130mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="130mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx140mm" size="Other" width="50mm" height="140mm" description="50mmx140mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="140mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="140mm"/>
+    </Label-rectangle>
+  </Template>
+  <Template brand="Phomemo" part="M02 Pro - 50mmx150mm" size="Other" width="50mm" height="150mm" description="50mmx150mm Phomemo M02 Pro">
+    <Meta category="label"/>
+    <Meta category="mail"/>
+    <Label-rectangle id="0" width="48mm" height="150mm" round="0mm" x_waste="1mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="1mm" y0="0mm" dx="50mm" dy="150mm"/>
+    </Label-rectangle>
+  </Template>
+</Glabels-templates>

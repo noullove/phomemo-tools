@@ -1,0 +1,9 @@
+Package: phomemo-tools
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: noullove
+Description: A set of tools to use Phomemo M02 Pro printer
